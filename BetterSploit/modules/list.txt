@@ -1,0 +1,180 @@
+1smtplib/2.7.11-3.5.1StartTLS/Stripping MITM Exploit   
+2Server/OpenSSL/Heartbleed  Information Disclosure 
+3VigileCMS/1.8/Stealth/RCE  Remote Command Execution   
+4ProFTPd/1.3.5/Mod_Copy/RCE Remote Command Execution   
+5osCommerce/2.3.4.1/AFU Arbitrary File Upload  
+6SweetRice/1.5.1/File/UploadUnrestricted File Upload   
+7WordPress/4.7.0-4.7.1/Content-InjectionContent Injection  
+8phpMyAdmin/4.6.2/Authenticated/RCE Authenticated RCE  
+9   Bash/Shellshock/Environment-Variables/CMD-InjectionOS Command Injection   
+10   ManageEngine-opManager/12.3.150/RCEAuthenticated Code Execution   
+11   TinyWebGallery-1.7.6/LFI/RCE   Local File Inclusion / Remote Code Execution   
+12   Traq-2.3/RCE   Authentication Bypass / Remote Code Execution  
+13   TYPO3/Arbitrary-File-Retrieval Arbitrary File Retrieval1  
+14   WebAsys/Blind-SQL-InjectionBlind SQL Injection
+15   Dovecot/IMAP/1.0.10-1.1rc2/RED Remote Email Disclosure
+16   Zomplog/3.8.1/AFU  Arbitrary File Upload  
+17   ColdFusion/9-10/Credential-Disclosure  Credential Disclosure  
+18   Dovecot/IMAP/1.0.10-1.1rc2 Remote Email Disclosure
+19   Wolf-CMS/0.8.2/AFU Arbitrary File Upload  
+20   Wordpress-Plugin/Simple-File-List/5.4/RCE  Remote Code Execution  
+21   WordPress-Plugin/Download-Manager/2.7.4/RCERemote Code Execution  
+22   WordPress-Plugin/wpDataTables/1.5.3/AFUArbitrary File Upload  
+23   Joomla/1.5<3.4.5/Object-Injection/x-forwarded-for/Header/RCE   Remote Code Execution  
+24   phosheezy/2.0/RCE  Remote Command Execution   
+25   Multiple-WordPress-Plugins/AFU Arbitrary File Upload  
+26   Microsoft-Windows-7/2008-R2/EternalBlue/SMBRemote Code Execution  
+27   Microsoft-Windows-8/8.1/2012-R2-(x64)/EternalBlue/SMB  Remote Code Execution  
+28   Apache-Tomcat-AJP/Ghostcat/File-Read/Inclusion File Read/Inclusion
+29   WordPress-Plugin-Zingiri-2.2.3/ajax_save_name.php  Remote Code Execution  
+30   Apache+PHP-5.3.12<5.4.2/RCE+ScannerRemote Code Execution / Scanner
+31   Apache-CouchDB<2.1.0/RCE   Remote Code Execution  
+32   Apache-James-Server/2.3.2/RCE  Remote Command Execution   
+33   Apache-mod_cgi-Shellshock/RCI  Remote Command Injection   
+34   Apache/mod_jk/1.2.19/(Windows x86)/RBO Remote Buffer Overflow 
+35   Apache-Solr-8.2.0/RCE  Remote Code Execution  
+36   Apache-Struts/REST-Plugin-With-Dynamic-Method-Invocation/RCE   Remote Code Execution  
+37   Apache-Struts/2.0.1<2.3.33<2.5<2.5.10/ACE  Arbitrary Code Execution   
+38   Apache-Struts/2.3<2.3.34<2.5<2.5.16/RCERemote Code Execution  
+39   Apache-Struts/2.3.x/Showcase/RCE   Remote Code Execution  
+40   Apache-Struts/2.5<2.5.12/REST-Plugin-XStream/RCE   Remote Code Execution  
+41   Apache-Tomcat/WebDAV/Remote-File-DisclosureRemote-File-Disclosure 
+42   Apache-Tomcat-AJP/Ghostcat/File-Read/Inclusion File-Read / Inclusion  
+43   Apache-Tomcat<9.0.1<8.5.23<8.0.47<7.0.8/JSP/Upload-Bypass/RCE  Remote Code Execution  
+44   Joomla-Component-Recerca/SQL-Injection SQL Injection  
+45   CNC-Telnet/Remote-Command-ExecutionCNC Remote Command Execution   
+46   OpenSSH-7.2p1/(Authenticated)/xauth-Command-Injection  Command Injection  
+47   NetGain-EM-Plus/10.1.68/RCERemote Code Execution  
+48   phpMyAdmin/pmaPWN!/Code-Injection/Remote-Code-ExecutionCode Injection / Remote Code Execution 
+49   phpMyAdmin/3.x/Swekey/Remote-Code-InjectionRemote Code Injection  
+50   Broken-faq.php-frameork/Remote-Command-Execution   Remote Command Execution   
+51   WzdFTPD/8.0/DOSRemote Denial Of Service   
+52   Mida-eFramework-2.9.0/RCE  Remote Command Execution   
+53   Complaint-Management-System-1.0/cid-SQL-Injection  SQL Injection  
+54   Drupal/7.0-7.31/SQL-Injection-ADD-ADMIN-USER   SQL Injection ADD ADMIN USER   
+55   Webmin/Brute-Force/Remote-Command-ExecutionBruteForce/Remote Command Execution
+56   Webmin/<1.290<1.220/Arbitrary-File-Disclosure  Arbitrary File Disclosure  
+57   Nagios-XI/5.6.5/Remote-Code-Execution/Privilege-Escalation Remote Code Execution / Privilege Escalation   
+58   Nagios-XI/5.2.6<5.4-Chained-Remote-RootChained Remote Root
+59   Apache-Tika-Server/<1.8/Arbitrary-File-DownloadArbitrary File Download  
+60   Apache-Tika-server/<1.18/Command-Injection Remote Command Injection   
+61   IOT-DEATH/Telnet-0-Day/Remote-Command-Execution/POCRemote Command Injection 
+62   Imperva-SecureSphere/<13/Remote-Command-Execution  Remote Command Execution   
+63   WarFTP-1.65/(Windows 2000 SP4)-USER/Remote-Buffer-Overflow Remote Buffer Overflow 
+64   BraveStarr/Remote-Fedora<31-telnetd-exploitMultiple Exploits   
+65   SSHtranger-Things/Multiple-ExploitsMultiple Exploits   
+66   ManageEngine-Applications-Manager-Authenticated-RCERemote Command Execution   
+67   libssh-bypass-Authentication   Bypass Authentication 
+68  ClearPass-Policy-Manager-Unauthenticated-RCE   Remote Command Execution
+69   Cisco-7937G/All-In-One All In One   
+70   Agent-Tesla-Botnet/Multi   SQL Injection / Remote Command Execution   
+71   Apache-CouchDB/Pre-Authenticated-Remote-Privilege-Escalation   Remote Privilege Escalation
+72   Cayin-Digital-Signage-System-xPost-2.5/RCI Remote Command Injection   
+73   eGroupWare<1.14-spellchecker/Remote-Command-Execution  Remote Command Execution   
+74   FaceSentry-Access-Control-System<6.4.8/Remote-Root-Exploit Remote Root Exploit   
+75   Joomla-hdwplayer<4.2/search.php/SQL-Injection  SQL Injection
+76   LibreHealth<2.0-Pre-Authenticated-Remote-Command-Execution Remote Command Execution   
+77   Online-Course-Registration-1.0/Unauthenticated-RCE Remote Command Execution   
+78   PHPFusion<9.03.50-PHP-Object-Injection-to-SQL-injectionSQL Injection  
+79   Pi-Hole<4.3.2/Pre-Authenticated-Remote-Command-Execution   Remote Command Execution
+80   PulseSecure<9.0/Remote-Command-Execution   Remote Code Execution   
+81   rConfig<3.9.4-search.crud.php  Remote Command Injection  
+82   Ruby-On-Rails<5.0.1-Remote-Command-Execution   Remote Command Execution 
+83   Tailor-Management-System/(id)-SQL-Injection-Vulnerability  SQL Injection 
+84   SMBGhost   Remote Command Execution   
+85   Symantec-Web-Gateway<5.0.2.8-RCE   Remote Command Execution   
+86   Umbraco<7.12.4/Remote-Command-ExecutionRemote Command Execution   
+87   CGI-In-WebDAV-Yaws-Web-Server<2.0.7/OS-CMD-Injection   OS Command Injection 
+88   WebDAV-implementation-In-Yaws-Web-Server<2.0.7/XXE-injection   XXE Injection
+89   Microsoft-Exchange-Server-Static-Key-Flaw/RCE  Remote Code Execution   
+90   'BIG-IP'-Traffic-Management-User<15.1.0.3/RCE  Remote Command Execution   
+91   SMBleedingGhost/CVE-2020-0796-RCE-POC  Remote Command Execution 
+92   Mambo-com_akogallery/Sql-Injection SQL Injection   
+93   vBulletin<5.5.4-Pre-Authenticated/Remote-Command-Execution Remote Command Execution
+94   ZeroLogon-Microsoft-Netlogon/set-password-to-empty-string  Remote Password Reset + Checker 
+95  Upload-Death-RCE(POC)  Chained Remote Command Execution
+96   PHP<7.x/Remote-Command-Execution/CVE-2019-11043Remote Command Execution  
+97   Upload-Death-Reverse-Shell(POC)Chained RFU Into Reverse Shell  
+98  FPM+PHP-versions<7.3.11/Remote-Code-Execution  Remote Code Execution  
+99  Pre-Authenticated-Discord-Account-Disabler Pre Authenticated Account Disable
+100  SpamTitan<7.07/Unauthenticated-RCE Remote Code Execution   
+101  ProFTPd<1.3.5-mod_copy/Unauth-Remote-Command-Execution Remote Command Execution
+102  ProFTPd<1.3.5-mod_copy/Unauth-Remote-File-Upload   Unauthenticated Remote File Upload
+103  ProFTPd<1.3.5-mod_copy/Unauth-Invoke-Reverse-Shell Unauthenticated Invoke Reverse Shell  
+104  Wordpress-Plugin-File-Manager<6.9/Unauthenticated-RCE  Unauth Remote Command Execution  
+105  Wordpress-Plugin-File-Manager<6.9/Unauthenticated-AFU  Unauth Arbitrary File Upload  
+106  Seo-Panel<4.6.0/Authenticated-Remote-Code-ExecutionAuthenticated Remote Code Execution  
+107  Upload-Death-Bypass-Upload-ASP--POCRemote-File-Upload(ASP)   
+108  Upload-Death-Bypass-Upload-PERL--POC   Remote-File-Upload(PERL)
+109 Upload-Death-Bypass-Upload-PHP--POCRemote-File-Upload(PHP) 
+110  Oracle-WebLogic-Server<12.2.1.4/Unauthenticated-RCERemote Code Execution  
+111  rConfig-3.9.5/Remote-Code-Execution-UnauthenticatedRemote Code Execution / Auth bypass 
+112  ReQuest-Serious-Play-F3-Media-Server/<7.0.3/RCERemote Code Execution
+113  CloudMe/1.11.2/Chained-RCE RBO Into Remote Command Execution
+114  Apache-Struts-2/DefaultActionMapper-Prefixes-OGNL/RCE  Remote Command Execution   
+115  Windows-10/MailCarrier/2.51/POP3-'USER'/RBOChained Remote Command Execution   
+
+inurl:faq.php and intext:"Warning:framework()[function.system]"  
+intitle:"Remote Desktop Web Connection" inurl:tsweb  
+"HP LaserJet" inurl:"SSI/index.htm"  
+inurl:8081/ "Pan, Tilt & Zoom"   
+inurl:wp-content/plugins/easy-media-gallery-pro  
+"Share Link" inurl:/share.cgi?ssid=  
+inurl:wp-content/plugins/my-calendar 
+site:police.*.*/ intext:"login" intitle:"login"  
+site:admin.*.*/ intext:"login" intitle:"login"   
+intext:"db_database" ext:env intext:"db_password"
+intitle:"index of" /var/logs filetype:'"log | txt | csv" 
+inurl:/ViewerFrame? intitle:"Network Camera NetworkCamera"   
+intitle:"Wing FTP Server - Web"  
+intitle:"SFXAdmin - sfx_global" intext:"Login Form"  
+intitle:"Index of /" "joomla/database"   
+intitle:"index of" "/root/etc/security/" 
+intitle:"index of" "/ftpusers"   
+intext:"Please Login" inurl:"/remote/login   
+intitle:PhpMyAdmin inurl:error.php   
+inurl:tailor/addmeasurement.php? 
+inurl:tailor/staffedit.php?  
+inurl:tailor/staffcatedit.php?   
+site:*.vbulletin.net intext:"Powered by vBulletin Version 5.5.4" 
+
+Sagem-routers/Remote-Auth-bypass   Remote Authentication Bypass  
+D-Link-DSR-Router-Series/Remote-Code-Execution Remote Command Execution  
+Netgear-ProSafe/Information-Disclosure Information-Disclosure
+Netcore/Netis-Routers/UDP-Backdoor-Access  UDP Backdoor Access   
+BLUE-COM-Router/5360/52018/Password-Reset  Remote Password Reset 
+Seowonintech-Routers/2.3.9/File-Disclosure Remote File Disclosure
+Netgear-WNR2000v5/Remote-Code-ExecutionRemote Code Execution 
+Netgear-DGN2200v1/v2/v3/v4-ping.cgi/RCERemote Command Execution  
+PLC-Wireless-Router-GPN2.4P21-C-CN/DOS Denial Of Service 
+Virgin-Media-Hub-3.0-Router/DOSDenial Of Service 
+ZTE-ZXV10-W300-Router  Hard Coded Credentials CVE-2014-0329  
+RT-N56U-Remote-RootRemote Root   
+
+https://github.com/pentestmonkey/windows-privesc-check  Windows Privilege Escalation 
+https://github.com/pentestmonkey/unix-privesc-check Unix Privilege Escalation
+https://github.com/mzet-/linux-exploit-suggesterLinux Exploit Suggester  
+https://github.com/bitsadmin/wesng  Windows Exploit Suggester
+https://github.com/shawnduong/PXEnumPost Exploitation Enumeration
+https://github.com/EmpireProject/Empire PowerShell Empire
+https://github.com/huntergregal/mimipenguin Dump The Login Passwords And Credentials 
+https://github.com/nilotpalbiswas/Auto-Root-Exploit Automate Root Exploit
+https://github.com/EnigmaDimitri/LARE   [L]ocal [A]uto [R]oot [E]xploiter
+https://github.com/TheSecondSun/Bashark Post exploitation toolkit
+https://github.com/rebootuser/LinEnum   Linux Enumeration
+http://www.securitysift.com/download/linuxprivchecker.pyLinux Privilege Escalation Checker   
+ 
+Docker/Container/Escape Escape From Docker Container
+Linux-Kernel/local/Privilege-Escalation Local Privilege Escalation   
+GNU-Beep-1.3/HoleyBeep/Privilege-Escalation Local Privilege Escalation   
+Windows-SMBv3-LPE-Exploit/CVE-2020-0796 Windows Local Privilege Escalation
+python3-interpreter-arbitrary-code-executionArbitrary Code Execution 
+Sony-Playstation-4(PS4)<7.02/FreeBSD<12/'ip6_setpktopt' Kernel Exploit Privilege Escalation  
+Local-Linux-Enumeration Local-Enumeration
+Spawn-BetterNet Botnet Able To Recieve 300 Connections   
+Windows-10/UAC-BYPASS   Local Privilege Escalation / Bypass  
+Linux-Kernel/3.9-(x86/x64)/'Dirty-COW'-LPE/SUID Method  Local Privilege Escalation   
+ASAN-SUID-LPE   Local Privilege Escalation   
+Linux-Kernel/5.3/LPE/via-io_uring-Offload-sendmsg() Local Privilege Escalation   
+Sudo/1.8.6p7-1.8.20/LPE Local Privilege Escalation   
+Linux-kernel<4.5/LPELocal Privilege Escalation   
