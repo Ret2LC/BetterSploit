@@ -7,6 +7,7 @@ setup() {
 	python3 $file
 	pip3 install requests_toolbelt
 	pip install impacket
+	sudo apt install exploitdb
 	sudo apt install python-pip
 	sudo apt install lolcat
 	# shellcheck disable=SC2035
