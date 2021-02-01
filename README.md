@@ -36,4 +36,8 @@ sudo ./install.sh
   - The Escalator is a tool i made for local privilege escalation
   - ![alt text](https://i.imgur.com/IXQhPCR.png)
 
+----
+
+## BetterSploit Framework:
+
 ![alt text](https://i.imgur.com/wYYMoqg.png)
