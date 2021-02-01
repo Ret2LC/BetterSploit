@@ -20,12 +20,20 @@ sudo ./install.sh
   + Web Server Exploits
 
 - Comes with tools to help you bypass Anti Viruses
+
 - Comes with the Escalator which is set in place to help you with local privilege escalation
+
 - Modules:
   + SQLmap (sql injection)
   + Commix (command injection)
   + RouterSploit (Router Exploitation Framework)
   + Eva (tool i made, basically a reverse shell handler and SSH dropper)
   + AnyLizer (tool i made, for PHP code analysis)
+
+- Query shellcode from the shellcode database or open an interactive MSFvenom session
+
+## What is the escalator?
+  - The Escalator is a tool i made for local privilege escalation
+  - ![alt text](https://i.imgur.com/IXQhPCR.png)
 
 ![alt text](https://i.imgur.com/wYYMoqg.png)
