@@ -23,6 +23,11 @@ sudo ./install.sh
 
 - Comes with the Escalator which is set in place to help you with local privilege escalation
 
+- Comes with a number of scripts and tools to help with Windows exploitation
+  - Includes:
+    + Nishang Scripts, Tools & Payloads (well over 30)
+    + Evil-Winrm used for exploiting Winrm (Windows Remote Management)
+
 - Modules:
   + SQLmap (sql injection)
   + Commix (command injection)
